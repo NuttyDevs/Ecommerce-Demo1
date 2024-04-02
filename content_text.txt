@@ -1,0 +1,288 @@
+content img 1
+
+Title: Tropical Jungle Ruffle Sleeve Romper
+Price: ฿2,795.00
+Style Code: GJS2440075
+
+Details: Short-sleeved romper in 100% cotton with V neck.
+ Tropical jungle print. Ruffled sleeves. Matching waist tie.
+ Side pockets. Front button and zip closure. Available in red.
+
+content img 2
+
+title :Leaf and Hibiscus Summer Jumpsuit
+price :฿2,995.00
+Style Code: GJS2440046
+
+Details:  Wide-leg jumpsuit in tencel/linen blend 
+with shoulder straps. Oversized leaf and hibiscus
+ placement print. Side pockets. Back zip closure.
+ Available in black.
+
+
+Title: Tropical Jungle Ruffle Sleeve Romper
+Price: ฿2,795.00
+Style Code: GJS2440075
+
+Details:
+
+content img 3
+Title: Stripe Boat Neck Mini Dress
+Price: ฿2,095.00
+Style Code: GJS2427038
+
+Details:Mini dress in rayon blend with short sleeves.
+ Boat neck with chain. Black stripe. Slightly stretch fabric.
+ Back zip closure. Available in black stripe.
+
+content img 4
+Title: Gold Metalic Knit Crop Cardigan
+Price: ฿2,095.00
+Style Code: GJS2427058
+
+Details  :Crop cardigan featuring metalic thread material
+ witha V-neck, long sleeves, and a front hook closure.
+ Straight hem and tight fit. Available in gold
+ 
+
+
+conten img m1
+Title: Lightweight Denim Jacket
+Price: ฿2,795.00
+Style Code: GJS2421050
+
+
+Details:Cotton denim jacket with long-sleeved and 
+semi-spread
+ collar. Front pockets. Contrast stitch detailing. 
+Available in dark blue.
+
+conten img m2
+Title: Zip Knit Polo Shirt
+Price: ฿1,795.00
+Style Code: GJS2421018
+
+Details:Cotton knit polo shirt with a classic
+ collar and short-sleeved. Front zip closure. 
+Available in green.
+
+
+conten img m3
+Title: Flap Pocket Overshirt NEW
+Price: ฿2,495.00
+Style Code: GJS2434073
+
+Details:Long-sleeved overshirt in cotton blend
+ with point collar. Flap front pockets with button.
+ Front button closure. Available in beige.
+
+
+
+conten img m4
+Title: Abstract Monochrome Shirt
+Price: ฿1,995.00
+Style Code: GJS2421040
+
+Details:Viscose resort shirt with a camp collar
+ and short-sleeved. Abstract monochrome print. 
+Front button-up. Available in black
+
+
+conten bag 1
+
+
+Title: Heart Bag
+
+Price: ฿3,595.00
+Style Code: LJS24L9305
+
+Details: Mini shoulder bag in faux leather. 
+Gold heart-shaped top handle. Jaspal logo appliqué.
+ Removable gold chain shoulder strap. Available 
+in silver, beige, and black. Size: 23 x 21 x 10 cm.
+
+
+conten bag 2
+
+
+
+
+
+Title: Pick Me Up Handbag
+
+Price: ฿2,595.00
+Style Code: LJS24L9302
+
+Details :Baguette handbag in faux leather.
+ Top handle. Removable shoulder strap. 
+Available in purple, green, brown, and black.
+ Size: 25 x 14 x 9 cm.
+
+
+
+conten bag 3
+
+
+Title: Monogram Bifold Leather Wallet
+
+Price: ฿1,795.00
+Style Code: 
+LJS24L3049
+Details :Bifold wallet in cow leather. 
+Embossed monogram. Folded closure. Available in black.
+ Size 11 x 9.5 cm.
+
+conten bag 4
+
+
+Title: Monogram Embossed Crossbody Phone Pouch
+
+Price: ฿2,695.00
+Style Code: LJS24L3014
+Details :กระเป๋าสะพายข้างหนังขนาดเล็ก พิมพ์ลายนูนเงื่อนอนันตภาคย์สไตล์โมเดิร์น 
+มาพร้อมช่องซิปและสายปรับขนาดสามารถถอดออกได้ มีจำหน่ายในสีแดง
+
+conten shoe 1
+
+
+Title: Crisscross Knot Sandals
+
+Price: ฿2,695.00
+Style Code: 
+LJS24L5023
+ขนาด
+36 37 38 39 40
+
+Details :Square toe sandals in faux leather.
+ Crisscross knot strap. Mid heel. Available in tan or green.
+ Heel height: 2 inches
+
+
+conten shoe 2
+
+
+Title:Puff Strap Logo Sandals
+
+Price: ฿2,595.00
+Style Code: LJS24L5013
+ขนาด
+3637383940
+Details:Flat sandals in faux leather.
+ Double puff straps with golden 'JJ' logo. 
+Square toe. Available in black, tan, and white.
+
+
+conten shoe 3
+
+
+Title: Double Buckle Canvas Strap Sandals
+
+Price: ฿2,295.00
+Style Code: 
+LJS24L5107
+
+ขนาด
+4041424344
+
+Detail :Flat sandals in faux leather with double
+ buckle canvas straps. Faux leather lining. 
+Rubber outsole. Available in white.
+
+
+conten shoe 4
+
+
+Title: Double Strap Flat Sandals
+
+Price: ฿2,295.00
+Style Code: 
+LJS24L5011
+
+size :3637383940
+
+Detail :Open toe sandals with double faux straps 
+and raffia footbed. Available in beige and tan. 
+Sole height: 1.5"
+conten bag 1
+
+
+Title: Heart Bag
+
+Price: ฿3,595.00
+Style Code: LJS24L9305
+
+
+
+/*
+--- 01 TYPOGRAPHY SYSTEM
+
+- Font sizes (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+- Font weights
+Default: 400
+Medium: 500
+Semi-bold: 600
+Bold: 700
+
+- Line heights
+Default: 1
+Small: 1.05
+Medium: 1.2
+Paragraph default: 1.6
+Large: 1.8
+
+- Letter spacing
+-0.5px
+0.75px
+
+--- 02 COLORS
+
+- Primary: #e67e22
+- Tints:
+#fdf2e9
+#fae5d3
+#eb984e
+
+- Shades: 
+#cf711f
+#45260a
+
+- Accents:
+- Greys
+
+#888
+#767676 (lightest grey allowed on #fff)
+#6f6f6f (lightest grey allowed on #fdf2e9)
+#555
+#333
+
+--- 05 SHADOWS
+
+0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
+
+--- 06 BORDER-RADIUS
+
+Default: 9px
+Medium: 11px
+
+--- 07 WHITESPACE
+
+- Spacing system (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+*/
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html 
+  /* font-size: 10px; */
+
+  /* 10px / 16px = 0.625 = 62.5% */
+  /* Percentage of user's browser font-size setting */
+  font-size: 62.5%;
+  overflow-x: hidden;
+
