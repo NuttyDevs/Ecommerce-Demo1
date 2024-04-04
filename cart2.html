@@ -102,261 +102,206 @@
           <li><span class="breadcrumb__link">></span></li>
           <li><a href="shop2.html" class="breadcrumb__link">Shop</a></li>
           <li><span class="breadcrumb__link">></span></li>
-          <li><a href="details2.html" class="breadcrumb__link">Details</a></li>
+          <li><a href="cart2.html" class="breadcrumb__link">Cart</a></li>
         </ul>
       </section>
 
-      <!--=============== DETAILS ===============-->
-      <section class="details section--lg">
-        <div class="details__container container grid">
-          <div class="details__group">
-            <img src="image/women1-1.webp" alt="" class="details__img" />
-            <div class="details__small-images grid">
-              <img
-                src="image/women1-2.webp"
-                alt=""
-                class="details__small-img"
-              />
-              <img
-                src="image/women 1-3.webp"
-                alt=""
-                class="details__small-img"
-              />
-              <img
-                src="image/women1-4.webp"
-                alt=""
-                class="details__small-img"
-              />
-              <img
-                src="image/women1-5.webp"
-                alt=""
-                class="details__small-img"
-              />
-            </div>
+         <!--=============== CART ===============-->
+         <section class="cart section--lg container">
+          <div class="table__container">
+            <table class="table">
+              <tr>
+                <th>Image</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Subtotal</th>
+                <th>Remove</th>
+              </tr>
+  
+              <tr>
+                <td>
+                  <img
+                    src="image/women3-1.webp"
+                    alt=""
+                    class="table__img"
+                  />
+                </td>
+  
+                <td>
+                  <h3 class="table__title">Stripe Boat Neck Mini Dress</h3>
+                  <p class="table__description">
+                    Mini dress in rayon blend with short sleeves.
+                  </p>
+                </td>
+  
+                <td><span class="table__price">$110.00</span></td>
+  
+                <td>
+                  <input type="number" value="1" class="quantity" />
+                </td>
+  
+                <td>
+                  <span class="table__subtotal">$110.00/span>
+                </td>
+  
+                <td><i class="fi fi-rs-trash-xmark table__trash"></i></td>
+              </tr>
+  
+              <tr>
+                <td>
+                  <img
+                    src="image/bag 2-1.webp"
+                    alt=""
+                    class="table__img"
+                  />
+                </td>
+  
+                <td>
+                  <h3 class="table__title">
+                    Pick Me Up Handbag
+                  </h3>
+                  <p class="table__description">
+                    Baguette handbag in faux leather.
+                     Top handle. Removable shoulder strap. 
+                  </p>
+                </td>
+  
+                <td><span class="table__price">$139.00
+                <td>
+                  <input type="number" value="1" class="quantity" />
+                </td>
+  
+                <td>
+                  <span class="table__subtotal">$139.00
+  
+                <td><i class="fi fi-rs-trash-xmark table__trash"></i></td>
+              </tr>
+  
+              <tr>
+                <td>
+                  <img
+                    src="image/shoe 1-1.webp"
+                    alt=""
+                    class="table__img"
+                  />
+                </td>
+  
+                <td>
+                  <h3 class="table__title">
+                    Crisscross Knot Sandals
+                  </h3>
+                  <p class="table__description">
+                    Square toe sandals in faux leather.
+                  </p>
+                </td>
+  
+                <td><span class="table__price">$120.00<span></td>
+  
+                <td>
+                  <input type="number" value="1" class="quantity" />
+                </td>
+  
+                <td>
+                  <span class="table__subtotal">$120.00</span>
+                </td>
+  
+                <td><i class="fi fi-rs-trash-xmark table__trash"></i></td>
+              </tr>
+            </table>
           </div>
-
-          <div class="details__group">
-            <h3 class="details__title">Tropical Jungle Ruffle Sleeve Romper</h3>
-            <p class="details__brand">Brands: <span>JASPAL</span></p>
-            <div class="details__price flex">
-              <spna class="new__price">$116.00</spna>
-              <spna class="old__price">$200.00</spna>
-              <spna class="save__price">25% off</spna>
+  
+          <div class="cart__actions">
+            <a href="checkout2.html" class="btn flex btn--sm">
+              <i class="fi fi-rs-shuffle"></i> Update Cart
+            </a>
+  
+            <a href="shop2.html" class="btn flex btn--sm">
+              <i class="fi fi-rs-shopping-bag"></i> Continue Shopping
+            </a>
+          </div>
+  
+          <div class="divider">
+            <i class="fi fi-rs-fingerprint"></i>
+          </div>
+  
+          <div class="cart__group grid">
+            <div>
+              <div class="cart__shipping">
+                <h3 class="section__title">Calculate Shipping</h3>
+  
+                <form action="" class="form grid">
+                  <input
+                    type="text"
+                    placeholder="State / Country"
+                    class="form__input"
+                  />
+  
+                  <div class="form__group grid">
+                    <input type="text" placeholder="City" class="form__input" />
+  
+                    <input
+                      type="text"
+                      placeholder="PostCode/ZIP"
+                      class="form__input"
+                    />
+                  </div>
+  
+                  <div class="form__btn">
+                    <button class="btn flex btn--sm">
+                      <i class="fi-rs-shuffle"></i> Update
+                    </button>
+                  </div>
+                </form>
+              </div>
+  
+              <div class="cart__coupon">
+                <h3 class="section__title">Apply Coupon</h3>
+                <form action="" class="coupon__form form grid">
+                  <div class="form__group grid">
+                    <input
+                      type="text"
+                      class="form__input"
+                      placeholder="Enter Your Coupon"
+                    />
+  
+                    <div class="form__btn">
+                      <button class="btn flex btn--sm">
+                        <i class="fi-rs-label"></i> Apply
+                      </button>
+                    </div>
+                  </div>
+                </form>
+              </div>
             </div>
-
-            <p class="short__description">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius ea
-              earum modi fugiat neque atque ex numquam, quam laudantium id
-              aliquam molestiae pariatur debitis voluptatum veniam corrupti, vel
-              voluptatibus assumenda.
-            </p>
-
-            <ul class="product__list">
-              <li class="list__item flex">
-                <i class="fi fi-rs-crown"></i>
-                1 Year AL Jazeera Brand Warranty
-              </li>
-              <li class="list__item flex">
-                <i class="fi fi-rs-refresh"></i>
-                30 Day Return Policy
-              </li>
-              <li class="list__item flex">
-                <i class="fi fi-rs-credit-card"></i>
-                Cash on Delivery available
-              </li>
-            </ul>
-
-            <div class="details__color flex">
-              <span class="details__color-title">Color</span>
-
-              <ul class="color__list">
-                <li>
-                  <a
-                    href="#"
-                    class="color__link"
-                    style="background-color: #69db7c"
-                  ></a>
-                </li>
-                <li>
-                  <a
-                    href="#"
-                    class="color__link"
-                    style="background-color: #3bc9db"
-                  ></a>
-                </li>
-                <li>
-                  <a
-                    href="#"
-                    class="color__link"
-                    style="background-color: #212529"
-                  ></a>
-                </li>
-              </ul>
-            </div>
-
-            <div class="details__size flex">
-              <span class="details__size-title"> Size </span>
-
-              <ul class="size__list">
-                <li>
-                  <a href="#" class="size__link size-active">M</a>
-                </li>
-                <li>
-                  <a href="#" class="size__link">L</a>
-                </li>
-                <li>
-                  <a href="#" class="size__link">XL</a>
-                </li>
-                <li>
-                  <a href="#" class="size__link">XXL</a>
-                </li>
-              </ul>
-            </div>
-
-            <div class="details__action">
-              <input type="number" class="quantity" value="3" />
-              <a href="#" class="btn btn--sm">Add To Cart</a>
-              <a href="#" class="details__action-btn">
-                <i class="fi fi-rs-heart"></i>
+  
+            <div class="cart__total">
+              <h3 class="section__title">Cart Totals</h3>
+  
+              <table class="cart__total-table">
+                <tr>
+                  <td><span class="cart__total-title">Cart Subtotal</span></td>
+                  <td><span class="cart__total-price">$369.00</span></td>
+                </tr>
+  
+                <tr>
+                  <td><span class="cart__total-title">Shipping</span></td>
+                  <td><span class="cart__total-price">$10.00
+                </tr>
+  
+                <tr>
+                  <td><span class="cart__total-title">Total</span></td>
+                  <td><span class="cart__totals-price">$349.00</span></td>
+                </tr>
+              </table>
+  
+              <a href="checkout2.html" class="btn flex btn--sm">
+                <i class="fi fi-rs-box-alt"></i>Proceed To Checkout
               </a>
             </div>
-
-            <ul class="details__meta">
-              <li class="meta__list flex"><span>SKU:</span> FWM15VKT</li>
-              <li class="meta__list flex">
-                <span>Tags:</span>Cloth,Women,Dress
-              </li>
-              <li class="meta__list flex">
-                <span>Availability:</span>8 Items In Stock
-              </li>
-            </ul>
           </div>
-        </div>
-      </section>
-
-      <!--=============== DETAILS TAB ===============-->
-      <section class="details__tab container">
-        <div class="details__tabs">
-          <span class="detail__tab active-tab" data-target="#info"
-            >Reviews(3)</span
-          >
-        </div>
-
-        <div class="details__tabs-content">
-          <div class="details__tab-content" content id="reviews">
-            <div class="reviews__container grid">
-              <div class="review__single">
-                <div>
-                  <img
-                    src="image/human-image (1).jpg"
-                    alt=""
-                    class="review__img"
-                  />
-                  <h4 class="review__title">Jacky</h4>
-                </div>
-
-                <div class="review__data">
-                  <div class="review__rating">
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                  </div>
-                  <p class="review__description">
-                    Thank you very fast shipping grom Poland only 3days
-                  </p>
-
-                  <span class="review__date"> December 4,2020 at 3:12 pm </span>
-                </div>
-              </div>
-
-              <div class="review__single">
-                <div>
-                  <img
-                    src="image/human-image (2).jpg"
-                    alt=""
-                    class="review__img"
-                  />
-                  <h4 class="review__title">Anna</h4>
-                </div>
-
-                <div class="review__data">
-                  <div class="review__rating">
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                  </div>
-                  <p class="review__description">
-                    Thank you very fast shipping grom Poland only 3days
-                  </p>
-
-                  <span class="review__date"> December 4,2020 at 3:12 pm </span>
-                </div>
-              </div>
-
-              <div class="review__single">
-                <div>
-                  <img
-                    src="image/human-image (3).jpg"
-                    alt=""
-                    class="review__img"
-                  />
-                  <h4 class="review__title">Jany</h4>
-                </div>
-
-                <div class="review__data">
-                  <div class="review__rating">
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                    <i class="fi fi-rs-star"></i>
-                  </div>
-                  <p class="review__description">
-                    Thank you very fast shipping grom Poland only 3days
-                  </p>
-
-                  <span class="review__date"> December 4,2020 at 3:12 pm </span>
-                </div>
-              </div>
-            </div>
-
-            <div class="review__form">
-              <h4 class="review__form-title">Add a review</h4>
-
-              <div class="rate__product">
-                <i class="fi fi-rs-star"></i>
-                <i class="fi fi-rs-star"></i>
-                <i class="fi fi-rs-star"></i>
-                <i class="fi fi-rs-star"></i>
-                <i class="fi fi-rs-star"></i>
-              </div>
-
-              <form action="" class="form grid">
-                <textarea
-                  class="form__input textarea"
-                  placeholder="Write Comment"
-                ></textarea>
-
-                <div class="form__group grid">
-                  <input type="text" placeholder="Name" class="form__input" />
-
-                  <input type="email" placeholder="Email" class="form__input" />
-                </div>
-
-                <div class="form__btn">
-                  <button class="btn">Submit Review</button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-      </section>
+        </section>
+  
 
       <!--=============== NEWSLETTER ===============-->
       <section class="newsletter section home__newsletter">
